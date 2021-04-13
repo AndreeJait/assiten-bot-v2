@@ -1,0 +1,17 @@
+{
+    "name": "asissten-jadwal",
+    "version": "1.0.0",
+    "description": "assiten jadwal",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Andree Panjaitan",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js": "^12.5.3",
+        "mongoose": "^5.12.3",
+        "nodemon": "^2.0.7"
+    }
+}
